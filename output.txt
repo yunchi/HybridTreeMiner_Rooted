@@ -1,0 +1,21 @@
+#Output Statistics for example_rooted.txt
+#with support 2
+
+hybrid: 
+frequent 1 trees: 9
+frequent 2 trees: 18
+frequent 3 trees: 27
+frequent 4 trees: 38
+frequent 5 trees: 51
+frequent 6 trees: 59
+frequent 7 trees: 52
+frequent 8 trees: 32
+frequent 9 trees: 12
+frequent 10 trees: 2
+
+total frequent trees: 300
+time for 1st step: 0
+time for 2nd step: 0
+time spent for hybrid method: 0
+time for each each pattern: 0
+
